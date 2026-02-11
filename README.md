@@ -8,7 +8,7 @@ Your journal becomes a comedy roast that makes you laugh at your own existential
 
 This is not text-to-speech. This is AI-generated conversation with personality, drama, and insight.
 
-https://github.com/user-attachments/assets/DEMO_VIDEO_PLACEHOLDER
+https://github.com/silas-zhen/monolithos-audio-brief/releases/download/1.0.0/AUDIO.BRIEF30_4K.mp4
 
 ---
 
