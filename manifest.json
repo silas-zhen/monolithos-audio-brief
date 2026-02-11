@@ -1,0 +1,11 @@
+{
+  "id": "monolithos-audio-brief",
+  "name": "Audio Brief by Monolithos",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Turn your notes into AI-generated podcasts. Four show formats, ten languages, one click.",
+  "author": "Silas Yu",
+  "authorUrl": "https://monolithos.ai",
+  "fundingUrl": "https://audio.monolithos.ai/register",
+  "isDesktopOnly": false
+}
