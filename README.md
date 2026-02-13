@@ -27,7 +27,7 @@ Share it with your team. A full transcript auto-saves as `.md` in your vault.
 
 | Mode | Vibe | Typical Duration |
 |:-----|:-----|:---------|
-| **Deep Trace** | Intellectual detective duo. BBC meets true crime. | 8-12 min |
+| **🔒 Deep Trace** | Intellectual detective duo. BBC meets true crime. *Monolith System exclusive.* | 8-12 min |
 | **The Boardroom** | HBO Succession energy. High-stakes strategic debate. | 6-10 min |
 | **The Roast** | Comedy podcast. Sharp, witty, surprisingly insightful. | 4-10 min |
 | **The Briefing** | Solo intelligence brief. Cold. Precise. CIA morning dispatch. | 3-7 min |
