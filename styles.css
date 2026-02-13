@@ -399,6 +399,29 @@
     border-color: rgba(0, 0, 0, 0.2);
 }
 
+/* Locked protocol (Deep Trace — exclusive to full system) */
+.audio-brief-protocol-btn.locked {
+    opacity: 0.35;
+    cursor: not-allowed;
+    font-size: 11px;
+}
+
+.audio-brief-protocol-btn.locked:hover {
+    opacity: 0.5;
+}
+
+.theme-dark .audio-brief-protocol-btn.locked {
+    background: rgba(255, 255, 255, 0.03);
+    color: #555;
+    border-color: rgba(255, 255, 255, 0.05);
+}
+
+.theme-light .audio-brief-protocol-btn.locked {
+    background: rgba(0, 0, 0, 0.02);
+    color: #aaa;
+    border-color: rgba(0, 0, 0, 0.05);
+}
+
 /* ═══════════════════════════════════════════════════════════════════════════
    ✦ MASTERED TOGGLE
    ═══════════════════════════════════════════════════════════════════════════ */
