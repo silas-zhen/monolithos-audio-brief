@@ -48,7 +48,7 @@ Share it with your team. A full transcript auto-saves as `.md` in your vault.
 
 Register at [audio.monolithos.ai](https://audio.monolithos.ai/register) to get your trial key.
 
-After that: **$9.90/month** for 15 generations + 3 Mastered (Pro-quality) generations per month.
+After that: **$9.90/month** — 30 generations + 5 Pro (studio-grade) generations per month.
 
 Your notes stay local. Your vault is never uploaded. Audio Brief only sends
 the content of selected notes to generate the podcast — nothing else.
@@ -118,7 +118,7 @@ A transcript is automatically saved as a `.md` file in your vault.
 | Tier | What You Get | Price |
 |:-----|:-------------|:------|
 | **Free Trial** | 5 Pro-quality generations | Free |
-| **Signal** | 15/month + 3 Mastered (Pro) | $9.90/month |
+| **Signal** | 30/month + 5 Pro (studio-grade) | $9.90/month |
 | **The Monolith System** | Unlimited Pro + Deep Trace + full OS | $299 one-time + $29/month |
 
 [Get your free key →](https://audio.monolithos.ai/register)
