@@ -3,7 +3,7 @@
     "name": "Audio Brief by Monolithos",
     "version": "1.0.1",
     "minAppVersion": "1.0.0",
-    "description": "Transform your notes into AI-powered podcast briefings. Deep analysis, boardroom summaries, quick briefs, and roast-style commentary — all generated from your Obsidian vault.",
+    "description": "Transform your notes into AI-powered podcast briefings. Deep analysis, boardroom summaries, quick briefs, and roast-style commentary — all generated from your vault.",
     "author": "Silas Yu",
     "authorUrl": "https://monolithos.ai",
     "isDesktopOnly": false
