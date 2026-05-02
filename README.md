@@ -27,12 +27,13 @@ Share it with your team. A full transcript auto-saves as `.md` in your vault.
 
 | Mode | Vibe | Typical Duration |
 |:-----|:-----|:---------|
-| **🔒 Deep Trace** | Intellectual detective duo. BBC meets true crime. *Monolith System exclusive.* | 8-12 min |
+| **Deep Trace** | Intellectual detective duo. BBC meets true crime. | 8-12 min |
 | **The Boardroom** | HBO Succession energy. High-stakes strategic debate. | 6-10 min |
 | **The Roast** | Comedy podcast. Sharp, witty, surprisingly insightful. | 4-10 min |
 | **The Briefing** | Solo intelligence brief. Cold. Precise. CIA morning dispatch. | 3-7 min |
 
 > Duration depends on the length and richness of your source notes. Longer, more detailed notes produce deeper conversations.
+
 ---
 
 ## 10 Languages
@@ -48,7 +49,7 @@ Share it with your team. A full transcript auto-saves as `.md` in your vault.
 
 Register at [audio.monolithos.ai](https://audio.monolithos.ai/register) to get your trial key.
 
-After that: **$9.90/month** — 30 generations + 5 Pro (studio-grade) generations per month.
+After that: **$9.90/month** for 30 generations + 5 Mastered (Pro-quality) generations per month.
 
 Your notes stay local. Your vault is never uploaded. Audio Brief only sends
 the content of selected notes to generate the podcast — nothing else.
@@ -99,7 +100,7 @@ A transcript is automatically saved as a `.md` file in your vault.
 
 ---
 
-## Why Not Just Use NotebookLM?
+## How Audio Brief Compares
 
 | | Audio Brief | NotebookLM |
 |:--|:-----------|:-----------|
@@ -115,11 +116,13 @@ A transcript is automatically saved as a `.md` file in your vault.
 
 ## Pricing
 
+Audio Brief is a standalone plugin with its own subscription. Or get it included as part of the [Monolithos](https://monolithos.ai) suite.
+
 | Tier | What You Get | Price |
 |:-----|:-------------|:------|
 | **Free Trial** | 5 Pro-quality generations | Free |
-| **Signal** | 30/month + 5 Pro (studio-grade) | $9.90/month |
-| **The Monolith System** | Unlimited Pro + Deep Trace + full OS | $299 one-time + $29/month |
+| **Signal** | 30 generations/month + 5 Mastered (Pro) | $9.90/month |
+| **Monolithos Core** | Audio Brief Pro included alongside Chat, Crystallization, Presentations | from $39/month |
 
 [Get your free key →](https://audio.monolithos.ai/register)
 
@@ -127,11 +130,7 @@ A transcript is automatically saved as a `.md` file in your vault.
 
 ## Built by Monolithos
 
-Audio Brief is one module of [MONOLITHOS](https://monolithos.ai) — a sovereign
-Life Operating System built on Obsidian.
-
-Six AI intelligences. Presentation forge. Mobile capture.
-All Pro quality. All local.
+Audio Brief is part of [Monolithos](https://monolithos.ai) — a family of AI companion tools for local-first thinking. Other modules include Chat, Synapse, Forge Crystal, and Gamma Forge.
 
 [→ monolithos.ai](https://monolithos.ai)
 
